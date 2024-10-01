@@ -1,0 +1,11 @@
+{
+  "name": "FullStack_backEnd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Andrescimentoo/FullStack_backEnd.git",
+  "author": "Andre Nascimento <1914andre@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
