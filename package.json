@@ -2,6 +2,10 @@
   "name": "FullStack_backEnd",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
   "repository": "https://github.com/Andrescimentoo/FullStack_backEnd.git",
   "author": "Andre Nascimento <1914andre@gmail.com>",
   "license": "MIT",
